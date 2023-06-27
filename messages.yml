@@ -4,7 +4,7 @@ Attempt_To_Purchase_More_Pages_Without_Item: "&l[&b&l!&f&l]&r You don't have req
 Attempt_To_Purchase_More_Pages_Without_Money: "&l[&b&l!&f&l]&r You don't have enough money!"
 
 Open_Inventory_Of_Offline_Player: "That player is not online. Opening last save of inventory."
-Open_Inventory_Player_Hasnt_Made_Yet: "That bank does not exist yet. The player must log in at least once."
+Open_Inventory_Player_Hasnt_Made_Yet: "That bank does not exist yet. The player must open it themselves at least once."
 Open_Inventory_Not_Looking_At_Ender: "&l[&b&l!&f&l]&r You must be looking at an ender chest!"
 
 Missing_Perms: "&c&lYou are missing permissions!"
